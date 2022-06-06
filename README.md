@@ -10,6 +10,7 @@
 
 This project is an API Rest that uses the following technologies:
 - NestJS
+- NodeJS
 - Typescript
 - MySQL
 - Sequelize
